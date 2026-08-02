@@ -1,0 +1,3 @@
+relative_path	role	size_bytes	sha256
+data/figure_tables/lfc.csv	processed_figure_input	192399	98986962ae68d2ae52a098f1e7fdb71cc390954ad9a758392b5e7677155a8f52
+data/figure_tables/lfc_NT400-R1-1E4X_vs_NT400-R2-1E4X_table.csv	processed_figure_input	61118	79221dd3e147e2ba0715199af8e57d3dc40ff527667e3e1e90e2edf435b5782a

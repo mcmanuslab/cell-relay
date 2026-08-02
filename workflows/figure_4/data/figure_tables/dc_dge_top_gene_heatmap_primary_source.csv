@@ -1,0 +1,76 @@
+gene,treatment_group,mean_log1p,program,selection_rationale,program_order,gene_order,z,zscore_cluster_order
+Isg15,IFNg,0.29716835683521226,ifn_response,Canonical ISG retained as pathway anchor.,4,14,0.10627866446044792,0
+Isg15,LPS,0.2058993411681685,ifn_response,Canonical ISG retained as pathway anchor.,4,14,-1.2744208862178292,0
+Isg15,no_treatment,0.3673612105951677,ifn_response,Canonical ISG retained as pathway anchor.,4,14,1.1681422217573796,0
+Nfkbia,IFNg,0.6723209568640004,prr_nfkb,NF-kB feedback regulator.,5,18,0.20170649816994116,1
+Nfkbia,LPS,0.6236496865869826,prr_nfkb,NF-kB feedback regulator.,5,18,-1.3130767707372384,1
+Nfkbia,no_treatment,0.7015492249163975,prr_nfkb,NF-kB feedback regulator.,5,18,1.111370272567287,1
+Batf3,IFNg,0.15346717134239993,dc_context,cDC1/DC lineage-context transcription factor.,7,23,0.4048877752592799,2
+Batf3,LPS,0.11010116630154654,dc_context,cDC1/DC lineage-context transcription factor.,7,23,-1.3759213765846667,2
+Batf3,no_treatment,0.1672538720237272,dc_context,cDC1/DC lineage-context transcription factor.,7,23,0.9710336013253846,2
+Myd88,IFNg,0.3164993240396237,prr_nfkb,TLR adaptor; primary PRR/NF-kB pathway gene.,5,17,0.6474255756391561,3
+Myd88,LPS,0.2330129639618666,prr_nfkb,TLR adaptor; primary PRR/NF-kB pathway gene.,5,17,-1.4125792135147734,3
+Myd88,no_treatment,0.32127052042075765,prr_nfkb,TLR adaptor; primary PRR/NF-kB pathway gene.,5,17,0.7651536378756173,3
+Stat1,IFNg,1.2347862223296024,ifn_response,Core IFN signaling transcription factor.,4,15,0.8199439023082955,4
+Stat1,LPS,1.0239285742531963,ifn_response,Core IFN signaling transcription factor.,4,15,-1.407854207635635,4
+Stat1,no_treatment,1.212824600979926,ifn_response,Core IFN signaling transcription factor.,4,15,0.5879103053273371,4
+Cxcl9,IFNg,1.614856754926883,chemokines_migration,IFNg-associated CXCR3 chemokine.,3,12,1.1906438381553262,5
+Cxcl9,LPS,0.605239967343462,chemokines_migration,IFNg-associated CXCR3 chemokine.,3,12,-1.2562118024902216,5
+Cxcl9,no_treatment,1.150630148891999,chemokines_migration,IFNg-associated CXCR3 chemokine.,3,12,0.06556796433489458,5
+Ciita,IFNg,0.05980502217272322,antigen_presentation,MHC-II transcriptional regulator; IFNg-up mechanism marker.,1,6,1.3764252694794203,6
+Ciita,LPS,0.011280188575051064,antigen_presentation,MHC-II transcriptional regulator; IFNg-up mechanism marker.,1,6,-0.9694422707204843,6
+Ciita,no_treatment,0.022914793730581782,antigen_presentation,MHC-II transcriptional regulator; IFNg-up mechanism marker.,1,6,-0.4069829987589357,6
+Cd74,IFNg,2.5736206506459762,antigen_presentation,MHC-II invariant chain; strongest IFNg antigen-presentation signal.,1,3,1.3768396798386249,7
+Cd74,LPS,1.4241790795955491,antigen_presentation,MHC-II invariant chain; strongest IFNg antigen-presentation signal.,1,3,-0.9681239192896437,7
+Cd74,no_treatment,1.6983867445163732,antigen_presentation,MHC-II invariant chain; strongest IFNg antigen-presentation signal.,1,3,-0.4087157605489812,7
+Gbp4,IFNg,0.6208197736813383,ifn_response,Strong IFNg-up interferon-stimulated GTPase.,4,13,1.4102029148329427,8
+Gbp4,LPS,0.19737942570473666,ifn_response,Strong IFNg-up interferon-stimulated GTPase.,4,13,-0.7972741445179298,8
+Gbp4,no_treatment,0.23274073062507572,ifn_response,Strong IFNg-up interferon-stimulated GTPase.,4,13,-0.6129287703150138,8
+H2-Aa,IFNg,0.1858910445186544,antigen_presentation,MHC-II alpha chain; IFNg-up antigen-presentation anchor.,1,4,1.4134156391275396,9
+H2-Aa,LPS,0.010446882227858743,antigen_presentation,MHC-II alpha chain; IFNg-up antigen-presentation anchor.,1,4,-0.7478438536733742,9
+H2-Aa,no_treatment,0.017125466699890006,antigen_presentation,MHC-II alpha chain; IFNg-up antigen-presentation anchor.,1,4,-0.6655717854541651,9
+H2-Ab1,IFNg,0.12032553675874572,antigen_presentation,MHC-II beta chain; IFNg-up antigen-presentation anchor.,1,5,1.414177104405239,10
+H2-Ab1,LPS,0.0069102579991983624,antigen_presentation,MHC-II beta chain; IFNg-up antigen-presentation anchor.,1,5,-0.7158827566584326,10
+H2-Ab1,no_treatment,0.007846754825467319,antigen_presentation,MHC-II beta chain; IFNg-up antigen-presentation anchor.,1,5,-0.6982943477468061,10
+Cd86,IFNg,0.3275090180390222,costim_checkpoint,B7-2 costimulation; induced in both contrasts.,0,1,0.7843816897234267,11
+Cd86,LPS,0.32397371374967376,costim_checkpoint,B7-2 costimulation; induced in both contrasts.,0,1,0.6269063161685619,11
+Cd86,no_treatment,0.2782164822115256,costim_checkpoint,B7-2 costimulation; induced in both contrasts.,0,1,-1.4112880058919886,11
+Itgax,IFNg,0.08055416411653932,dc_context,CD11c/DC context marker; treatment-responsive in current DGE.,7,22,-0.21740212383988142,12
+Itgax,LPS,0.11519322939315522,dc_context,CD11c/DC context marker; treatment-responsive in current DGE.,7,22,1.3188879224553005,12
+Itgax,no_treatment,0.06062053752409292,dc_context,CD11c/DC context marker; treatment-responsive in current DGE.,7,22,-1.10148579861542,12
+Cd80,IFNg,0.09034858516271399,costim_checkpoint,B7-1 costimulation; LPS-up in current DGE.,0,0,-0.41375192533794175,13
+Cd80,LPS,0.16033403846913474,costim_checkpoint,B7-1 costimulation; LPS-up in current DGE.,0,0,1.378032232433753,13
+Cd80,no_treatment,0.06884544920280554,costim_checkpoint,B7-1 costimulation; LPS-up in current DGE.,0,0,-0.9642803070958119,13
+Nos2,IFNg,0.4519864857919466,cytokines_inflammatory,Inflammatory effector enzyme; LPS-up and modest IFNg-up.,2,7,-0.5133709760585721,14
+Nos2,LPS,0.7147882772351225,cytokines_inflammatory,Inflammatory effector enzyme; LPS-up and modest IFNg-up.,2,7,1.3978855934908572,14
+Nos2,no_treatment,0.4009534558001912,cytokines_inflammatory,Inflammatory effector enzyme; LPS-up and modest IFNg-up.,2,7,-0.8845146174322858,14
+Lcn2,IFNg,0.037298175377385466,stress_myeloid,LPS-up myeloid stress/inflammatory marker.,6,19,-0.5293873701107448,15
+Lcn2,LPS,0.17769368955244197,stress_myeloid,LPS-up myeloid stress/inflammatory marker.,6,19,1.4003924828338246,15
+Lcn2,no_treatment,0.01244477121721749,stress_myeloid,LPS-up myeloid stress/inflammatory marker.,6,19,-0.87100511272308,15
+Cd14,IFNg,0.5448748265690974,prr_nfkb,LPS/TLR co-receptor; LPS-up PRR marker.,5,16,-0.6604922692435125,16
+Cd14,LPS,0.8163777736938503,prr_nfkb,LPS/TLR co-receptor; LPS-up PRR marker.,5,16,1.4132108024212953,16
+Cd14,no_treatment,0.5327999529757638,prr_nfkb,LPS/TLR co-receptor; LPS-up PRR marker.,5,16,-0.7527185331777844,16
+Ccl3,IFNg,0.4716020483991261,chemokines_migration,LPS-up inflammatory chemokine.,3,10,-0.6806736956053425,17
+Ccl3,LPS,1.1336647061666365,chemokines_migration,LPS-up inflammatory chemokine.,3,10,1.4138881926778126,17
+Ccl3,no_treatment,0.4549946123261469,chemokines_migration,LPS-up inflammatory chemokine.,3,10,-0.7332144970724694,17
+Tnf,IFNg,0.4147138183649364,cytokines_inflammatory,Canonical inflammatory cytokine; LPS-up.,2,8,-0.7066606746332401,18
+Tnf,LPS,0.5436241609958727,cytokines_inflammatory,Canonical inflammatory cytokine; LPS-up.,2,8,1.4142134685781036,18
+Tnf,no_treatment,0.4146595938337462,cytokines_inflammatory,Canonical inflammatory cytokine; LPS-up.,2,8,-0.7075527939448644,18
+Ccl4,IFNg,0.42844984619524396,chemokines_migration,LPS-up inflammatory chemokine.,3,11,-0.8495563513846922,19
+Ccl4,LPS,0.9715529401522173,chemokines_migration,LPS-up inflammatory chemokine.,3,11,1.4039055955751962,19
+Ccl4,no_treatment,0.49959721723984823,chemokines_migration,LPS-up inflammatory chemokine.,3,11,-0.5543492441905039,19
+Il27,IFNg,0.12911954154194413,cytokines_inflammatory,Inflammatory cytokine family member; LPS-up trend.,2,9,-0.8692454927617179,20
+Il27,LPS,0.17435342723954833,cytokines_inflammatory,Inflammatory cytokine family member; LPS-up trend.,2,9,1.4007020417728457,20
+Il27,no_treatment,0.13585075723705117,cytokines_inflammatory,Inflammatory cytokine family member; LPS-up trend.,2,9,-0.5314565490111292,20
+S100a8,IFNg,0.19591305169544312,stress_myeloid,LPS-up inflammatory myeloid stress marker.,6,20,-0.9793809075059374,21
+S100a8,LPS,0.7194297134949107,stress_myeloid,LPS-up inflammatory myeloid stress marker.,6,20,1.373211692043048,21
+S100a8,no_treatment,0.32621408458642304,stress_myeloid,LPS-up inflammatory myeloid stress marker.,6,20,-0.39383078453711007,21
+Lyz2,IFNg,1.5518268011610765,stress_myeloid,Myeloid context/stress marker with treatment shifts.,6,21,-1.3599011259547122,22
+Lyz2,LPS,3.1658494113187716,stress_myeloid,Myeloid context/stress marker with treatment shifts.,6,21,1.0161078114791984,22
+Lyz2,no_treatment,2.709146247368267,stress_myeloid,Myeloid context/stress marker with treatment shifts.,6,21,0.3437933144755143,22
+Cd274,IFNg,0.5745051853438685,costim_checkpoint,PD-L1 checkpoint ligand; treatment-responsive checkpoint marker.,0,2,-1.385078294255343,23
+Cd274,LPS,0.6406303582508865,costim_checkpoint,PD-L1 checkpoint ligand; treatment-responsive checkpoint marker.,0,2,0.9398619909715712,23
+Cd274,no_treatment,0.6265618112718941,costim_checkpoint,PD-L1 checkpoint ligand; treatment-responsive checkpoint marker.,0,2,0.4452163032837678,23
+Sirpa,IFNg,0.4918042257631418,dc_context,DC subset/context marker.,7,24,-1.4087648306950007,24
+Sirpa,LPS,0.5734059453598932,dc_context,DC subset/context marker.,7,24,0.5969755308024859,24
+Sirpa,no_treatment,0.5821454478833995,dc_context,DC subset/context marker.,7,24,0.8117892998925134,24

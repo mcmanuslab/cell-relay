@@ -1,0 +1,129 @@
+{
+  "project_name": "NT475_Paper",
+  "random_seed": 475,
+  "paths": {
+    "barcode_fastq_pairs": [
+      {
+        "sample": "DC-BC",
+        "r1": "data/raw/barcode_fastq/DC-BC_S21_L001_R1_001.fastq.gz",
+        "r2": "data/raw/barcode_fastq/DC-BC_S21_L001_R2_001.fastq.gz"
+      },
+      {
+        "sample": "OTI-BC",
+        "r1": "data/raw/barcode_fastq/OTI-BC_S22_L001_R1_001.fastq.gz",
+        "r2": "data/raw/barcode_fastq/OTI-BC_S22_L001_R2_001.fastq.gz"
+      }
+    ],
+    "peptide_barcodes": "data/raw/reference/OTI-Peptide-BC.csv",
+    "filtered_feature_matrix": "data/raw/cellranger/sample_filtered_feature_bc_matrix.tar.gz",
+    "cellranger_analysis": "data/raw/cellranger/analysis.tar.gz",
+    "vdj_filtered_contigs": "data/raw/cellranger/vdj_t/filtered_contig_annotations.csv"
+  },
+  "raw_input_files_for_hashing": [
+    "data/raw/barcode_fastq/DC-BC_S21_L001_R1_001.fastq.gz",
+    "data/raw/barcode_fastq/DC-BC_S21_L001_R2_001.fastq.gz",
+    "data/raw/barcode_fastq/OTI-BC_S22_L001_R1_001.fastq.gz",
+    "data/raw/barcode_fastq/OTI-BC_S22_L001_R2_001.fastq.gz",
+    "data/raw/reference/OTI-Peptide-BC.csv",
+    "data/raw/cellranger/sample_filtered_feature_bc_matrix.tar.gz",
+    "data/raw/cellranger/analysis.tar.gz",
+    "data/raw/cellranger/vdj_t/filtered_contig_annotations.csv"
+  ],
+  "fastq": {
+    "cellbc_start": 0,
+    "cellbc_length": 16,
+    "umi_start": 16,
+    "umi_length": 12,
+    "relay_read": "R2",
+    "anchor": "GTGCCGTCCGTGTCCATTCA",
+    "dcbc_length": 16,
+    "treatment_length": 8,
+    "spacer": "CTTC",
+    "peptide_length": 12,
+    "probe_reads": 10000,
+    "orientation_probe_reads": 100000,
+    "barcode_orientation": "auto"
+  },
+  "treatment_barcodes": {
+    "ACCGTCAT": "no_treatment",
+    "CAAGCATG": "LPS",
+    "TTCTGTCG": "PolyIC",
+    "TCTCAAGC": "IFNg"
+  },
+  "thresholds": {
+    "doublet_score_quantile": 0.95,
+    "doublet_neighbors": 40,
+    "doublet_simulation_ratio": 2.0,
+    "dcbc_identity_dominance_fraction": 0.9,
+    "dcbc_correction_max_hamming_distance": 2,
+    "dcbc_correction_discard_cell_dcbc_reads_le": 10,
+    "read_support_filter_enabled": true,
+    "read_support_min_umi_for_outlier": 10,
+    "read_support_mad_multiplier": 4.5,
+    "read_support_huber_tuning": 1.345,
+    "read_support_filter_cell_classes": ["t_cell", "dendritic_cell"],
+    "bubble_min_condition_umi": 2,
+    "dc_dge_treatment_purity_threshold": 0.9,
+    "dc_dge_min_pct": 0.05,
+    "dc_dge_min_total_counts": 10,
+    "dc_dge_pseudocount": 0.1,
+    "dc_dge_contrasts": ["LPS", "IFNg"],
+    "t_cell_peptide_treatment_fraction": 0.9,
+    "t_cell_single_dcbc_fraction": 0.9,
+    "dc_single_dcbc_fraction": 0.8,
+    "marker_min_score": 0.05,
+    "marker_score_margin": 0.05
+  },
+  "marker_genes": {
+    "dendritic_cell": ["Cd74", "Lyz2", "Cst3", "Napsa", "Ciita", "H2-Aa", "H2-Ab1", "H2-Eb1", "Cd86", "Cd80", "Itgax", "Flt3"],
+    "t_cell": ["Cd3d", "Cd3e", "Cd3g", "Trac", "Lck", "Lat", "Cd8a", "Cd8b1", "Thy1", "Themis"]
+  },
+  "oti_tcr": {
+    "trb_cdr3_aa": "CASSRANYEQYF",
+    "tra_cdr3_aa": "CAASDNYQLIW"
+  },
+  "orders": {
+    "treatments": ["no_treatment", "LPS", "PolyIC", "IFNg"],
+    "peptides": ["N4", "A2", "Y3", "Q4", "T4", "V4", "G4", "D4", "Q4R7", "Q4H7", "Q7", "E1", "CATNB", "LCMV", "TB", "MCMV"],
+    "t_cell_heatmap_groups": ["no_treatment (OTI)", "LPS (OTI)", "PolyIC (OTI)", "IFNg (OTI)", "multi_interaction (OTI)", "no_interaction (OTI)", "C57BL6 (all cells)"]
+  },
+  "palette": {
+    "dendritic_cell": "#8fb3d9",
+    "OTI": "#f6b26b",
+    "C57BL6": "#93c47d",
+    "no_treatment": "#b7b7b7",
+    "LPS": "#f4a6a6",
+    "PolyIC": "#a8d5ba",
+    "IFNg": "#a9c4f5",
+    "multi_interaction": "#d7bde2",
+    "no_interaction": "#cfcfcf"
+  },
+  "heatmap_colors": {
+    "low": "#5d8af7",
+    "mid": "#ffffff",
+    "high": "#ed8590"
+  },
+  "dc_gene_panel": [
+    "Cd40", "Cd70", "Cd80", "Cd83", "Cd86", "Cd274", "Pdcd1lg2", "Icosl", "Tnfsf4", "Tnfsf9", "Tnfsf18", "Havcr2", "Lgals9", "Relb", "Nfkb1", "Nfkb2",
+    "H2-Aa", "H2-Ab1", "H2-Eb1", "H2-DMa", "H2-DMb1", "H2-DMb2", "H2-Oa", "H2-Ob", "Cd74", "H2-K1", "H2-D1", "B2m", "Tap1", "Tap2", "Tapbp", "Psmb8", "Psmb9", "Psmb10", "Ciita", "Nlrc5", "Ctss", "Ctsb", "Ctsc", "Ctsd", "Ctsl", "Lamp1", "Lamp2",
+    "Il12a", "Il12b", "Il23a", "Il27", "Ebi3", "Il6", "Il1a", "Il1b", "Tnf", "Tnfsf15", "Il10", "Il18", "Ifnb1", "Csf2", "Csf3", "Nos2", "Ptgs2",
+    "Ccl2", "Ccl3", "Ccl4", "Ccl5", "Ccl7", "Ccl8", "Ccl17", "Ccl19", "Ccl20", "Ccl22", "Cxcl1", "Cxcl2", "Cxcl3", "Cxcl9", "Cxcl10", "Cxcl11", "Cxcl16", "Ccr7", "Xcr1", "Fscn1",
+    "Stat1", "Stat2", "Irf1", "Irf3", "Irf5", "Irf7", "Irf8", "Irf9", "Isg15", "Ifit1", "Ifit2", "Ifit3", "Ifitm1", "Ifitm2", "Ifitm3", "Oas1a", "Oas1g", "Oas2", "Oas3", "Mx1", "Mx2", "Rsad2", "Rigi", "Ifih1", "Usp18", "Gbp2", "Gbp3", "Gbp4", "Gbp5",
+    "Tlr2", "Tlr3", "Tlr4", "Tlr7", "Tlr9", "Cd14", "Ly96", "Myd88", "Ticam1", "Traf6", "Map3k8", "Nlrp3", "Nod1", "Nod2", "Rela", "Rel", "Nfkbia", "Nfkbiz", "Tnfaip3", "Jun", "Junb", "Fos", "Fosb", "Atf3", "Dusp1", "Dusp2",
+    "Lcn2", "Slpi", "S100a8", "S100a9", "Sod2", "Hmox1", "Lyz2", "Lpl", "Srgn", "Apoe", "Trem1", "Trem2", "Tyrobp", "Lgals3", "Axl", "Mertk", "Socs1", "Socs3", "Birc2", "Birc3", "Serpinb9",
+    "Itgax", "Flt3", "Zbtb46", "Batf3", "Clec9a", "Clec10a", "Cd209a", "Sirpa", "Itgae", "Ly75", "Ccr2", "Csf1r"
+  ],
+  "t_cell_gene_panel": [
+    "Cd2", "Cd3d", "Cd3e", "Cd3g", "Cd247", "Trac", "Trbc1", "Trbc2", "Cd4", "Cd8a", "Cd8b1", "Lck", "Fyn", "Zap70", "Lat", "Lcp2", "Themis", "Ptpn6", "Ptpn22",
+    "Sell", "Ccr7", "Tcf7", "Lef1", "Il7r", "Bcl2", "Klf2", "S1pr1", "S1pr5", "Satb1", "Ltb", "Cd27", "Cd28", "Cd44", "Ly6a", "Ly6c2", "Cxcr5", "Bach2",
+    "Cd69", "Il2ra", "Il2rb", "Icos", "Cd40lg", "Tnfrsf4", "Tnfrsf9", "Tnfrsf18", "Tnfrsf25", "Cd226", "Nfkbia", "Nfkbiz", "Nfkbid", "Rel", "Rela", "Nfkb1", "Nfkb2", "Jun", "Junb", "Jund", "Fos", "Fosb", "Atf3", "Dusp1", "Dusp2", "Dusp4", "Dusp5",
+    "Gzma", "Gzmb", "Gzmc", "Gzmk", "Gzmm", "Prf1", "Nkg7", "Ccl3", "Ccl4", "Ccl5", "Ifng", "Tnf", "Fasl", "Ctsw", "Klrg1", "Cx3cr1", "Zeb2", "Id2", "Slamf7", "Fcrl6",
+    "Pdcd1", "Ctla4", "Lag3", "Havcr2", "Tigit", "Entpd1", "Cd160", "Btla", "Tox", "Tox2", "Nr4a1", "Nr4a2", "Nr4a3", "Batf", "Prdm1", "Eomes", "Slamf6", "Lair1", "Il10", "Ahr",
+    "Il2", "Il4", "Il17a", "Il21", "Csf2", "Ifngr1", "Ifngr2", "Il12rb1", "Il12rb2", "Il18r1", "Il18rap", "Stat1", "Stat3", "Stat4", "Stat5a", "Stat5b", "Stat6", "Socs1", "Socs2", "Socs3", "Cish",
+    "Cxcr3", "Cxcr4", "Cxcr6", "Ccr2", "Ccr5", "Ccr6", "Ccr9", "Itga1", "Itga4", "Itgae", "Itgal", "Itgam", "Itgb1", "Itgb2", "Itgb7", "Selplg", "Cd6", "Cd38", "Cd52",
+    "Mki67", "Top2a", "Stmn1", "Pcna", "Mcm2", "Mcm3", "Mcm4", "Mcm5", "Mcm6", "Mcm7", "Cdk1", "Cdk2", "Ccna2", "Ccnb1", "Ccnb2", "Cenpf", "Birc5", "Ube2c", "Hmgb2", "Tuba1b",
+    "Tbx21", "Bcl6", "Rorc", "Gata3", "Foxp3", "Runx1", "Runx2", "Runx3", "Irf1", "Irf4", "Irf7", "Irf8", "Myc", "Hif1a", "Nfatc1", "Nfatc2", "Id3", "Ikzf2", "Ikzf3", "Zbtb7b",
+    "Isg15", "Ifit1", "Ifit2", "Ifit3", "Ifitm1", "Ifitm2", "Ifitm3", "Oas1a", "Oas1g", "Oas2", "Oas3", "Mx1", "Mx2", "Rsad2", "Rigi", "Ifih1", "Usp18", "Gbp2", "Gbp3", "Gbp4", "Gbp5", "Xaf1", "Irf9", "Hspa1a", "Hspa1b", "Hsp90aa1", "Hsp90ab1",
+    "Bcl2l11", "Bcl2l1", "Mcl1", "Birc2", "Birc3", "Fas", "Casp3", "Casp8", "Tnfaip3", "Pim1", "Pim2", "Slc2a1", "Slc7a5", "Ldha", "Gapdh", "Hk2", "Pgk1", "Pkm", "Mtor", "Rptor", "Rictor", "Tsc1", "Tsc2"
+  ]
+}

@@ -1,0 +1,9 @@
+workflow	figure	entry_point	processed_inputs	figure_outputs	figure_pairs	notes
+figure_1f	Figure 1F	workflows/figure_1f/code/recreate_figures.py	workflows/figure_1f/data/figure_tables	workflows/figure_1f/outputs/figures	2	Python
+figure_2i	Figure 2I	workflows/figure_2i/code/recreate_figures.py	workflows/figure_2i/data/figure_tables	workflows/figure_2i/outputs/figures	1	Python
+figure_3b	Figure 3B	workflows/figure_3b/code/recreate_figures.py	workflows/figure_3b/data/figure_tables	workflows/figure_3b/outputs/figures	1	Python
+figure_3d_f	Figure 3D-F	workflows/figure_3d_f/code/recreate_figures.py	workflows/figure_3d_f/data/figure_tables	workflows/figure_3d_f/outputs/figures	3	MAGeCK commands included for upstream rerun
+figure_4	Figure 4	workflows/figure_4/code/recreate_figures.py	workflows/figure_4/data/figure_tables	workflows/figure_4/outputs/figures	28	Python; 28-row figure manifest
+figure_5	Figure 5	workflows/figure_5/code/recreate_figures.py	workflows/figure_5/data/figure_tables	workflows/figure_5/outputs/figures	34	R dot plot; MAGeCK commands included for upstream rerun
+extended_data_figure_4	Extended Data Figure 4	workflows/extended_data_figure_4/code/recreate_figures.py	workflows/extended_data_figure_4/data/figure_tables	workflows/extended_data_figure_4/outputs/figures	8	Requires pdftoppm
+extended_data_figure_8	Extended Data Figure 8	workflows/extended_data_figure_8/code/recreate_figures.py	workflows/extended_data_figure_8/data/figure_tables	workflows/extended_data_figure_8/outputs/figures	6	Python

@@ -1,0 +1,207 @@
+Gene,MLE_beta,MLE_z,absz,MLE_fdr,rra_maxfdr,B_lfc,C_lfc,tier,origin,DepMap,surface,program,program_evidence,likely_general
+PREB,-2.0983,-4.4009,4.4009,0.0,0.003327,-3.0328,-3.0883,T1-core,new,-1.274813551853624,False,ER-Golgi / COPII vesicular transport,copii,False
+SNRPF,-1.936,-4.1647,4.1647,0.0,0.029584,-2.9419,-2.7176,T1-core,new,-4.0152313364791095,False,Spliceosome / RNA processing (likely general),spliceosom,True
+GOSR2,-1.9142,-4.1427,4.1427,0.0,0.000669,-2.9273,-2.5649,T1-core,new,-0.92752568870319,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+BET1,-1.7283,-3.9885,3.9885,0.0,0.001061,-2.6354,-2.4826,T1-core,new,-0.252484052541733,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+TRAPPC4,-1.7401,-3.9874,3.9874,0.0,0.000198,-2.667,-2.3355,T1-core,new,-0.6787184363073011,False,TRAPP tethering complex,trafficking protein particle,False
+SNRPD2,-1.8009,-3.9692,3.9692,0.0,0.017813,-3.106,-2.6301,T1-core,new,-2.6352133910696165,False,Spliceosome / RNA processing (likely general),spliceosom,True
+TRAPPC8,-1.8057,-3.8831,3.8831,0.0,0.000413,-2.3243,-3.0698,T1-core,new,-1.2870690582736963,False,TRAPP tethering complex,trafficking protein particle,False
+TRAPPC3,-1.6229,-3.8459,3.8459,0.0,0.003327,-2.4077,-2.2525,T1-core,new,-1.860646816417929,False,TRAPP tethering complex,trafficking protein particle,False
+KIAA0947,-1.5291,-3.7613,3.7613,0.0,0.000619,-2.0595,-2.1772,T1-core,new,-0.6017814694095931,False,Transcription / chromatin (likely general),transcription by rna pol,True
+USP30,-1.5705,-3.7574,3.7574,0.0,0.000198,-2.2113,-2.4955,T1-core,new,-0.1995648398066726,False,Ubiquitin–proteasome / protein degradation,deubiquitinat,False
+CNTROB,-1.5462,-3.7495,3.7495,0.0,0.000198,-2.2783,-2.0645,T1-core,new,0.1077502878003994,False,Cytokine / GPCR / surface receptor signaling,cytokine,False
+SEC23B,-1.4508,-3.6567,3.6567,0.0,0.000198,-2.087,-2.1941,T1-core,new,-0.0641840278074739,False,ER-Golgi / COPII vesicular transport,copii,False
+C9orf170,-1.3788,-3.5577,3.5577,0.0,0.000198,-1.919,-2.154,T1-core,new,,False,Other / unclear,no keyword match,True
+TAP2,-1.379,-3.5245,3.5245,0.0,0.007063,-1.8229,-1.9341,T1-core,new,0.3010566368559304,False,Antigen processing & presentation (MHC-I),antigen process,False
+ARHGEF35,-1.3596,-3.5163,3.5163,0.0,0.009592,-2.0455,-1.9636,T1-core,new,0.0995893742548422,False,Actin & Rho signaling,rho guanine nucleotide,False
+SPCS2,-1.4106,-3.4953,3.4953,0.0,0.000198,-1.8781,-2.0793,T1-core,new,-0.8897615554448224,False,Membrane-protein biogenesis (ER/GET/ERAD),signal peptidase,False
+STX18,-1.4322,-3.4831,3.4831,0.0,0.010199,-1.8361,-2.119,T1-core,new,-0.9231284279327556,False,ER-Golgi / COPII vesicular transport,golgi to endoplasmic reticulum,False
+TAPBP,-1.4059,-3.469,3.469,0.0,0.000198,-2.0352,-1.7657,T1-core,new,-0.0876919252457947,False,Antigen processing & presentation (MHC-I),antigen process,False
+USO1,-1.4649,-3.4517,3.4517,0.0,0.009086,-2.4863,-1.9604,T1-core,new,,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+ZKSCAN1,-1.376,-3.4448,3.4448,0.0,0.002475,-1.9345,-2.1215,T1-core,new,0.0287309697923731,False,Transcription / chromatin (likely general),transcription by rna pol,True
+NDUFA1,-1.3851,-3.4394,3.4394,0.0,0.000669,-1.9267,-2.0314,T1-core,new,-0.3335392655273122,False,Metabolism / mitochondria (likely general),mitochondrial,True
+TRAPPC1,-1.3897,-3.4221,3.4221,0.0,0.00143,-2.0653,-1.9763,T1-core,new,-1.0177298495039406,False,TRAPP tethering complex,trafficking protein particle,False
+SEC22B,-1.2711,-3.3847,3.3847,0.0,0.000669,-1.8119,-1.898,T1-core,new,,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+RPH3AL,-1.2687,-3.3676,3.3676,0.0,0.000198,-1.9145,-1.9373,T1-core,new,-0.0965903904139983,False,Polarized exocytosis & fusion,\bexocytos,False
+ICE1,-1.2871,-3.3625,3.3625,0.0,0.000198,-1.7539,-1.6792,T1-core,new,-0.6017814694095931,False,Transcription / chromatin (likely general),transcription by rna pol,True
+PARD6A,-1.2404,-3.3555,3.3555,0.0,0.000198,-1.7977,-1.8985,T1-core,new,0.1795561507562262,False,Cell polarity,cell polarity,False
+PSMB9,-1.2627,-3.3377,3.3377,0.0,0.000198,-1.6642,-1.8789,T1-core,new,0.1106664445596805,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+BNIP1,-1.3336,-3.3368,3.3368,0.0,0.00342,-2.0375,-1.7466,T1-core,new,-0.2841852450276357,False,ER-Golgi / COPII vesicular transport,golgi to endoplasmic reticulum,False
+FBXW12,-1.2546,-3.3183,3.3183,0.0,0.000198,-2.0133,-1.7565,T1-core,new,-0.3231280659545441,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+COPS3,-1.2401,-3.3175,3.3175,0.0,0.007361,-1.761,-1.6857,T1-core,new,-1.0253251485563033,False,COP9 signalosome / neddylation,cop9 signalosome,False
+OPTN,-1.2362,-3.302,3.302,0.0,0.026808,-2.0462,-1.6755,T1-core,new,0.2937764338130628,False,ER-Golgi / COPII vesicular transport,golgi organization,False
+KCNAB3,-1.1915,-3.2907,3.2907,0.006135,0.000198,-1.8057,-1.6793,T1-core,new,0.1575562256980445,False,Transport — ion channels & solute carriers,potassium ion transmembrane,False
+OR4A16,-1.1609,-3.2293,3.2293,0.006135,0.000198,-1.6851,-1.8399,T1-core,new,0.096148176962629,True,Cytokine / GPCR / surface receptor signaling,g protein-coupled receptor,False
+ABCD4,-1.135,-3.2067,3.2067,0.0088889,0.000198,-1.5381,-1.7573,T1-core,new,-0.0606297371097511,False,Transport — ion channels & solute carriers,atp binding cassette,False
+RWDD4,-1.1939,-3.188,3.188,0.006135,0.02172,-1.6052,-1.663,T1-core,new,,False,Other / unclear,no keyword match,True
+AQP12A,-1.183,-3.1865,3.1865,0.006135,0.005016,-1.6363,-1.6425,T1-core,new,,False,Transport — ion channels & solute carriers,aquaporin,False
+CACNG7,-1.1572,-3.1842,3.1842,0.006135,0.021988,-1.5916,-1.6278,T1-core,new,0.4061320801139938,True,Transport — ion channels & solute carriers,voltage-gated (potassium|sodium|calcium),False
+EXOC5,-1.1828,-3.1802,3.1802,0.006135,0.010407,-2.03,-1.7825,T1-core,new,-0.1357269907622112,False,Polarized exocytosis & fusion,exocyst,False
+TAP1,-1.1107,-3.1796,3.1796,0.0088889,0.031496,-1.3991,-1.5118,T1-core,new,-0.0475294792035615,False,Antigen processing & presentation (MHC-I),antigen process,False
+COPS4,-1.142,-3.1791,3.1791,0.0088889,0.008294,-1.6637,-1.542,T1-core,new,-0.9642113837082956,False,COP9 signalosome / neddylation,cop9 signalosome,False
+STX5,-1.1205,-3.1667,3.1667,0.0088889,0.007742,-1.6197,-1.8018,T1-core,new,-1.2567278577312926,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+MBD3,-1.1239,-3.1523,3.1523,0.0088889,0.001753,-1.8253,-1.657,T1-core,new,-0.3504146480852859,False,Transcription / chromatin (likely general),transcription by rna pol,True
+HSPH1,-1.2518,-3.1152,3.1152,0.0,0.003878,-1.8225,-1.5937,T1-core,new,-0.050312784545702,False,Antigen processing & presentation (MHC-I),mhc class i,False
+ALDH1A3,-1.0863,-3.1137,3.1137,0.0088889,0.028785,-1.4108,-1.7837,T1-core,new,0.1766363216476724,False,Other / unclear,no keyword match,True
+KCTD3,-1.2419,-3.0807,3.0807,0.0,0.023438,-1.9399,-2.2436,T1-core,new,0.2486254738141265,False,Other / unclear,no keyword match,True
+PDHA1,-1.0169,-3.06,3.06,0.0088889,0.000198,-1.5062,-1.4456,T1-core,new,-0.4142662561617494,False,Other / unclear,no keyword match,True
+PSMB8,-0.99556,-3.0274,3.0274,0.0088889,0.003803,-1.5179,-1.3161,T1-core,new,-0.0131925727578202,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+COPS5,-1.1251,-3.0273,3.0273,0.0088889,0.032816,-1.8477,-1.8531,T1-core,new,-1.9569219877945,False,COP9 signalosome / neddylation,cop9 signalosome,False
+GDPGP1,-1.1549,-3.0113,3.0113,0.006135,0.006465,-1.9667,-1.7607,T1-core,new,0.0922771407492629,False,Other / unclear,no keyword match,True
+RUNX3,-0.98223,-2.9917,2.9917,0.0088889,0.000198,-1.2904,-1.6116,T1-core,new,-0.0612026504585871,False,Transcription / chromatin (likely general),transcription by rna pol,True
+GJD3,-1.0103,-2.9907,2.9907,0.0088889,0.002761,-1.7584,-1.308,T1-core,new,0.1166100366840667,False,Transport — ion channels & solute carriers,ion channel,False
+CLK3,-1.0227,-2.9878,2.9878,0.0088889,0.015997,-1.2818,-1.5297,T1-core,new,-0.060137748238772,False,Spliceosome / RNA processing (likely general),rna splic,True
+DHX15,-0.9929,-2.9872,2.9872,0.0088889,0.011892,-1.3791,-1.4054,T1-core,new,-1.3703993411580035,False,Spliceosome / RNA processing (likely general),spliceosom,True
+TRAPPC12,-0.94992,-2.9823,2.9823,0.012712,0.000198,-1.4265,-1.3696,T1-core,new,0.2554948871258078,False,TRAPP tethering complex,trafficking protein particle,False
+ADPGK,-1.0438,-2.9621,2.9621,0.0088889,0.044332,-1.9435,-1.5306,T1-core,new,0.0698235276476726,False,Metabolism / mitochondria (likely general),glycolytic,True
+ZFYVE19,-1.005,-2.9597,2.9597,0.0088889,0.027796,-1.533,-1.2424,T1-core,new,-0.0789131685501263,False,Membrane lipid remodeling,phosphatidylinositol.*(phosphat|kinase),False
+PIGA,-0.96652,-2.9501,2.9501,0.012712,0.004586,-1.3202,-1.4958,T1-core,new,0.0748709760868388,False,GPI-anchor & glycan surface display,gpi[ -]anchor,False
+SLC9A6,-0.99097,-2.939,2.939,0.0088889,0.007316,-1.4151,-1.3678,T1-core,new,0.0803377308684079,True,Endosomal pH & recycling,sodium.*proton antiport,False
+MTMR11,-0.98037,-2.9147,2.9147,0.0088889,0.003379,-1.3937,-1.4366,T1-core,new,-0.0613772076796259,False,Membrane lipid remodeling,myotubularin,False
+TRAPPC13,-1.0089,-2.8799,2.8799,0.0088889,0.003768,-1.7435,-1.1732,T1-core,new,-0.0182257093821093,False,TRAPP tethering complex,trafficking protein particle,False
+NEDD8,-0.94151,-2.8687,2.8687,0.015686,0.026992,-1.3616,-1.2214,T1-core,new,-2.463149094188054,False,COP9 signalosome / neddylation,neddylat,False
+MATN1,-0.95819,-2.8685,2.8685,0.012712,0.038887,-1.1158,-1.7947,T1-core,new,-0.2421657005842056,False,Other / unclear,no keyword match,True
+INTS4,-0.93907,-2.8456,2.8456,0.015686,0.035636,-1.5322,-1.2961,T1-core,new,,False,Spliceosome / RNA processing (likely general),rna processing,True
+ALG1,-0.83179,-2.8368,2.8368,0.035144,0.000198,-1.1666,-1.147,T1-core,new,-0.4958784872234169,False,GPI-anchor & glycan surface display,n-linked glycosyl,False
+EXOC4,-0.85955,-2.818,2.818,0.027027,0.000806,-1.4979,-1.163,T1-core,new,-0.0346251890768911,False,Polarized exocytosis & fusion,exocyst,False
+ARRB1,-0.89523,-2.8032,2.8032,0.021505,0.010832,-0.96621,-1.5117,T1-core,new,-0.1176814649763436,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+GOLT1B,-0.89375,-2.7705,2.7705,0.021505,0.041384,-0.92166,-1.4891,T1-core,new,-0.0046945825874408,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+WRB,-0.86758,-2.7647,2.7647,0.027027,0.001614,-1.3277,-1.0659,T1-core,new,-0.258438106744659,False,Membrane-protein biogenesis (ER/GET/ERAD),tail-anchored,False
+RILP,-0.7343,-2.734,2.734,0.064516,0.000198,-1.0341,-1.0715,T1-core,new,0.0103394008358936,False,Endosomal pH & recycling,endosome to lysosome,False
+DHDDS,-0.80579,-2.7335,2.7335,0.044776,0.027796,-1.1689,-1.0575,T1-core,new,-1.8288466617427133,False,GPI-anchor & glycan surface display,dolich,False
+KIF13A,-0.8534,-2.7257,2.7257,0.03,0.003768,-1.234,-1.1873,T1-core,new,0.0336296869587688,False,Polarized exocytosis & fusion,golgi to plasma membrane,False
+SEL1L,-0.73651,-2.6935,2.6935,0.064516,0.033786,-0.92679,-1.2063,T1-core,new,-0.0072075574900964,False,Ubiquitin–proteasome / protein degradation,ubiquitin ligase,False
+DFFA,-0.80584,-2.6932,2.6932,0.044776,0.038892,-1.0937,-1.3302,T1-core,new,0.0686599560378044,False,Other / unclear,no keyword match,True
+ALG2,-0.70409,-2.6729,2.6729,0.083871,0.003945,-0.99738,-0.96253,T1-core,new,-1.0833114521986031,False,GPI-anchor & glycan surface display,n-linked glycosyl,False
+CD58,-0.7306,-2.6608,2.6608,0.07056,0.00221,-1.1853,-1.0569,T1-core,new,-0.2038385343923809,True,Surface sensing & adhesion,cell-cell adhesion,False
+MAP3K8,-0.69724,-2.6479,2.6479,0.09205,0.000198,-0.99595,-0.97135,T1-core,new,0.0520043484480038,False,Cytokine / GPCR / surface receptor signaling,mapk cascade,False
+ACVR1,-0.72492,-2.6422,2.6422,0.072464,0.014328,-1.2471,-1.0158,T1-core,new,-0.0157354136134668,True,Cytokine / GPCR / surface receptor signaling,growth factor.*signal,False
+RABGGTB,-0.71834,-2.6331,2.6331,0.076212,0.016429,-0.98467,-0.96466,T1-core,new,-1.0679800451990054,False,ER-Golgi / COPII vesicular transport,endoplasmic reticulum to golgi,False
+ITIH5,-0.69474,-2.6286,2.6286,0.093361,0.00187,-1.0666,-1.0703,T1-core,new,,False,Other / unclear,no keyword match,True
+TSSC1,-0.686,-2.6274,2.6274,0.094758,0.000413,-0.83718,-1.0021,T1-core,new,0.1314612279435487,False,Other / unclear,no keyword match,True
+TUBGCP4,-0.77579,-2.6267,2.6267,0.051913,0.046009,-1.074,-1.1036,T1-core,new,-1.1087371519601312,False,Other / unclear,no keyword match,True
+C17orf72,-0.70556,-2.5951,2.5951,0.083871,0.012271,-1.1905,-1.0539,T1-core,new,-0.0008924310283471,False,Other / unclear,no keyword match,True
+ATP11A,-0.66438,-2.5821,2.5821,0.10721,0.010407,-1.1137,-0.94309,T1-core,new,-0.1348717019970747,False,Membrane lipid remodeling,phosphatidylserine,False
+KCNQ3,-0.72129,-2.5761,2.5761,0.074766,0.049712,-1.0958,-1.14,T1-core,new,0.0084816501358896,False,Transport — ion channels & solute carriers,ion channel,False
+TAF1A,-0.66267,-2.5604,2.5604,0.10721,0.033886,-0.88125,-0.84813,T1-core,new,-0.3188970297788753,False,Transcription / chromatin (likely general),transcription by rna pol,True
+MTMR9,-0.60226,-2.5581,2.5581,0.14977,0.000806,-0.92336,-0.82755,T1-core,new,-0.1773261871259159,False,Membrane lipid remodeling,phosphatidylinositol.*(phosphat|kinase),False
+FAM204A,-0.6045,-2.5442,2.5442,0.14593,0.007063,-0.90545,-0.83511,T1-core,new,-0.1843527817660092,False,Other / unclear,no keyword match,True
+QSOX2,-0.65379,-2.5252,2.5252,0.11324,0.014097,-0.80534,-1.0773,T1-core,new,-0.2061607528363783,True,Other / unclear,no keyword match,True
+CRYGB,-0.68189,-2.5094,2.5094,0.096,0.028117,-0.85435,-0.95007,T1-core,new,-0.1290563489762398,False,Other / unclear,no keyword match,True
+NFKBID,-0.57968,-2.5086,2.5086,0.18544,0.043344,-0.71882,-0.79969,T1-core,new,0.0814413680819441,False,Other / unclear,no keyword match,True
+TMC7,-1.2006,-2.479,2.479,0.006135,0.004359,-1.9663,-2.1459,T1-core,new,-0.0165159342823684,True,Surface sensing & adhesion,mechanosensit,False
+LOXL1,-0.53332,-2.4077,2.4077,0.23363,0.037093,-0.7131,-0.79779,T1-core,new,0.0986155038834412,False,Other / unclear,no keyword match,True
+RFWD2,-0.55754,-2.4058,2.4058,0.20577,0.010309,-0.73794,-0.87303,T1-core,new,-0.093162815835802,False,Ubiquitin–proteasome / protein degradation,ubiquitin ligase,False
+JAK3,-0.69607,-2.3459,2.3459,0.093361,0.031583,-0.89665,-1.2807,T1-core,new,-0.2346378578419395,False,GPI-anchor & glycan surface display,glycoprotein biosynthetic,False
+TRPT1,-0.71386,-2.3274,2.3274,0.076577,0.046009,-1.2572,-1.1837,T1-core,new,-0.1757924865044098,False,Spliceosome / RNA processing (likely general),rna splic,True
+NDP,-0.43105,-2.3174,2.3174,0.36862,0.013551,-0.74429,-0.49032,T1-core,new,0.0754266468359156,False,Cytokine / GPCR / surface receptor signaling,cytokine,False
+KCTD10,-0.41736,-2.3072,2.3072,0.38857,0.026022,-0.78033,-0.55453,T1-core,new,-0.548683378438441,False,Ubiquitin–proteasome / protein degradation,ubiquitin-protein transferase,False
+WDR44,-0.51375,-2.3037,2.3037,0.25241,0.005806,-0.86482,-0.68633,T1-core,new,0.0619797997785875,False,Other / unclear,no keyword match,True
+RASGEF1B,-0.42011,-2.2851,2.2851,0.38561,0.040099,-0.53958,-0.63854,T1-core,new,0.011620627085937,False,Actin & Rho signaling,small gtpase-mediated,False
+NKX2-6,-0.56706,-2.1939,2.1939,0.19503,0.00389,-1.0585,-0.55589,T1-core,new,,False,Transcription / chromatin (likely general),transcription by rna pol,True
+METTL5,-0.28451,-2.188,2.188,0.63465,0.037547,-0.41293,-0.35915,T1-core,new,-0.3117763895265179,False,Spliceosome / RNA processing (likely general),rna processing,True
+CEP112,-0.40294,-2.1563,2.1563,0.39786,0.03231,-0.79072,-0.52275,T1-core,new,0.2159632821701944,False,Other / unclear,no keyword match,True
+TSPEAR,-0.36266,-2.1473,2.1473,0.47564,0.014109,-0.63826,-0.4215,T1-core,new,0.0843737037396568,False,Other / unclear,no keyword match,True
+SCAI,-0.33822,-1.9829,1.9829,0.51676,0.044171,-0.43706,-0.59401,T1-core,new,-0.277681770803798,False,Actin & Rho signaling,rho protein signal,False
+GTF3A,-1.4139,-1.9289,1.9289,0.0,0.010084,-1.9533,-1.907,T1-core,new,-0.6884187843936718,False,Transcription / chromatin (likely general),transcription by rna pol,True
+SMARCE1,1.1414,1.0125,1.0125,0.0,0.005522,1.3694,1.6798,T1-core,new,-0.4779289323297921,False,Transcription / chromatin (likely general),transcription by rna pol,True
+SMARCC1,1.0681,1.0535,1.0535,0.0,0.000825,1.2355,1.5643,T1-core,new,-0.0141638332825373,False,Transcription / chromatin (likely general),transcription by rna pol,True
+WDR7,0.99839,1.104,1.104,0.0,0.00225,1.1724,1.3316,T1-core,new,-0.912215232394064,False,Other / unclear,no keyword match,True
+LARS,0.95503,1.115,1.115,0.0,0.044184,1.3371,1.5327,T1-core,new,-1.512657067874306,False,Other / unclear,no keyword match,True
+AGO3,0.96133,1.1349,1.1349,0.0,0.009173,1.5021,1.4455,T1-core,new,-0.1539103770214458,False,Spliceosome / RNA processing (likely general),rna processing,True
+ARPC4,0.9327,1.1488,1.1488,0.0,0.029636,1.4285,1.1951,T1-core,new,-0.4557093099980248,False,Actin & Rho signaling,actin filament,False
+TPT1,0.95527,1.1552,1.1552,0.0,0.001856,1.3552,1.4404,T1-core,new,-1.3256466750333753,False,Other / unclear,no keyword match,True
+DGCR8,0.92815,1.1613,1.1613,0.0,0.003786,1.354,1.1694,T1-core,new,-0.4236851799905263,False,Spliceosome / RNA processing (likely general),rna processing,True
+ASCC3,0.89172,1.1855,1.1855,0.0,0.010689,1.3614,1.1208,T1-core,new,-0.2470821616584619,False,Ubiquitin–proteasome / protein degradation,ubiquitin-dependent protein catab,False
+PGAM5,0.90396,1.188,1.188,0.0,0.002785,1.288,1.3036,T1-core,new,-0.1454869964934431,False,Autophagy–secretion & DAMP,macroautophagy,False
+APOBEC2,0.90851,1.1883,1.1883,0.0,0.009767,1.3555,1.3442,T1-core,new,-0.0930314091908054,False,Other / unclear,no keyword match,True
+VMA21,0.83745,1.2151,1.2151,0.0,0.00225,1.0673,1.4157,T1-core,new,-0.2855878965632886,False,Other / unclear,no keyword match,True
+RELL2,0.79967,1.2184,1.2184,0.0,0.025955,1.4202,0.90534,T1-core,new,-0.2662624321001686,False,Cytokine / GPCR / surface receptor signaling,mapk cascade,False
+DICER1,0.8544,1.2223,1.2223,0.0,0.000825,1.2367,1.2809,T1-core,new,-0.2487781268777871,False,Spliceosome / RNA processing (likely general),rna processing,True
+ZPR1,0.83425,1.2301,1.2301,0.0,0.002666,1.0423,1.0964,T1-core,new,-1.5878325587595423,False,Spliceosome / RNA processing (likely general),pre-mrna,True
+ZNF559,0.83708,1.2306,1.2306,0.0,0.00452,1.2354,1.0569,T1-core,new,-0.4050100306008389,False,Transcription / chromatin (likely general),transcription by rna pol,True
+ATP6V1F,0.79759,1.2388,1.2388,0.0,0.00495,1.0866,1.095,T1-core,new,-2.3280226716123247,False,Polarized exocytosis & fusion,synaptic vesicle,False
+SLC35A3,0.77657,1.2455,1.2455,0.0,0.049132,1.0238,1.1159,T1-core,new,-0.013048354295439,False,Transport — ion channels & solute carriers,solute carrier,False
+CDS2,0.67318,1.2491,1.2491,0.006135,0.039427,1.1663,0.99818,T1-core,new,-0.9039845373093536,False,Other / unclear,no keyword match,True
+MXRA8,0.77767,1.2549,1.2549,0.0,0.002785,1.0121,1.1711,T1-core,new,0.0639760867404109,True,Other / unclear,no keyword match,True
+EMC7,0.78139,1.2563,1.2563,0.0,0.000825,1.0478,1.187,T1-core,new,-0.6855502910689616,False,Membrane-protein biogenesis (ER/GET/ERAD),tail-anchored,False
+ANO8,0.78978,1.2566,1.2566,0.0,0.007651,1.157,1.2485,T1-core,new,0.2385708390503004,False,Other / unclear,no keyword match,True
+VPS36,0.70668,1.2592,1.2592,0.0,0.030029,1.2492,0.97473,T1-core,new,-0.1035144202147093,False,Ubiquitin–proteasome / protein degradation,ubiquitin-dependent protein catab,False
+ATP6V1G1,0.77405,1.2613,1.2613,0.0,0.019072,1.0173,1.0705,T1-core,new,-1.2655507999324076,False,Polarized exocytosis & fusion,synaptic vesicle,False
+ATP6AP2,0.63943,1.2622,1.2622,0.0088889,0.029649,0.58546,0.99718,T1-core,new,-1.5249300166922546,False,Polarized exocytosis & fusion,synaptic vesicle,False
+SMARCA4,0.73494,1.2639,1.2639,0.0,0.017804,0.84861,1.0648,T1-core,new,-0.4454671978203501,False,Cytokine / GPCR / surface receptor signaling,wnt signal,False
+ATP6AP1,0.77452,1.2721,1.2721,0.0,0.000825,1.0956,1.1116,T1-core,new,-1.0739386490478304,False,Polarized exocytosis & fusion,synaptic vesicle,False
+OTUD7B,0.74386,1.2741,1.2741,0.0,0.005684,1.1515,1.1348,T1-core,new,0.172188242898525,False,Ubiquitin–proteasome / protein degradation,deubiquitinat,False
+TEX22,0.63481,1.2786,1.2786,0.012712,0.020326,0.87425,0.79026,T1-core,new,-0.1655274970211869,False,Other / unclear,no keyword match,True
+C17orf49,0.75346,1.2823,1.2823,0.0,0.039431,1.1504,1.1488,T1-core,new,,False,Transcription / chromatin (likely general),chromatin,True
+TMEM199,0.7716,1.2825,1.2825,0.0,0.000825,1.1169,1.1224,T1-core,new,-0.6085955793293277,False,Other / unclear,no keyword match,True
+IPO11,0.74032,1.2884,1.2884,0.0,0.01422,1.1847,0.97212,T1-core,new,-1.3253864220011642,False,Other / unclear,no keyword match,True
+XPOT,0.70194,1.2936,1.2936,0.0,0.017654,1.0546,0.99281,T1-core,new,-0.6633905075888028,False,Other / unclear,no keyword match,True
+ATP6V1C1,0.7489,1.2952,1.2952,0.0,0.032612,1.1623,1.0801,T1-core,new,-0.9292671766665468,False,Polarized exocytosis & fusion,synaptic vesicle,False
+TCERG1,0.73568,1.2952,1.2952,0.0,0.010689,1.2004,1.0618,T1-core,new,-0.3503681455871898,False,Spliceosome / RNA processing (likely general),rna splic,True
+SRF,0.67863,1.2954,1.2954,0.0,0.03534,0.88984,1.1077,T1-core,new,-0.404693681861756,False,Actin & Rho signaling,actin cytoskeleton organization,False
+TSEN54,0.68447,1.3071,1.3071,0.0,0.014463,1.1924,0.88711,T1-core,new,-0.9700130200957838,False,Spliceosome / RNA processing (likely general),rna splic,True
+SLC2A8,0.71951,1.3088,1.3088,0.0,0.029364,0.96675,1.0446,T1-core,new,0.3137443373818336,True,Transport — ion channels & solute carriers,solute carrier,False
+ZNF71,0.67644,1.3151,1.3151,0.0,0.007651,0.88086,0.91118,T1-core,new,-0.0077378352329465,False,Transcription / chromatin (likely general),transcription by rna pol,True
+TSEN2,0.70878,1.329,1.329,0.0,0.009767,0.95214,0.98613,T1-core,new,-0.6102089149500073,False,Spliceosome / RNA processing (likely general),rna splic,True
+NUDT5,0.6259,1.3356,1.3356,0.015686,0.04637,1.0413,0.71475,T1-core,new,0.0320252984537157,False,Transcription / chromatin (likely general),chromatin,True
+PRPF38B,0.64477,1.3461,1.3461,0.0088889,0.027434,1.1038,0.79574,T1-core,new,-1.7519439807813952,False,Spliceosome / RNA processing (likely general),pre-mrna,True
+MXD1,0.63729,1.3463,1.3463,0.0088889,0.017073,0.77498,1.0363,T1-core,new,0.1432742566982895,False,Transcription / chromatin (likely general),transcription by rna pol,True
+CARD17,0.61399,1.3498,1.3498,0.018868,0.011515,1.0446,0.76901,T1-core,new,,False,Cytokine / GPCR / surface receptor signaling,interleukin,False
+TSEN15,0.68103,1.3516,1.3516,0.0,0.004208,0.97009,0.96948,T1-core,new,0.1006299749893539,False,Spliceosome / RNA processing (likely general),rna splic,True
+IFI30,0.6482,1.3548,1.3548,0.0088889,0.004275,0.88864,0.9312,T1-core,new,-0.1010860522752872,False,Antigen processing & presentation (MHC-I),antigen process,False
+VPS8,0.63329,1.3693,1.3693,0.012712,0.007651,0.88421,0.94097,T1-core,new,-0.0334564020778279,False,Polarized exocytosis & fusion,\bsnare\b,False
+USP8,0.61857,1.372,1.372,0.018868,0.003182,1.0176,0.90858,T1-core,new,-0.9526008373638586,False,Ubiquitin–proteasome / protein degradation,deubiquitinat,False
+EMC2,0.62722,1.3803,1.3803,0.015686,0.004125,0.87199,0.93879,T1-core,new,-0.4272323849488809,False,Membrane-protein biogenesis (ER/GET/ERAD),tail-anchored,False
+STIM1,0.61317,1.3824,1.3824,0.021505,0.010809,0.87116,0.89782,T1-core,new,0.0893020541220232,True,Other / unclear,no keyword match,True
+NOTCH2,0.5579,1.3894,1.3894,0.050139,0.042079,0.70848,0.94946,T1-core,new,-0.1321472909928773,True,Transcription / chromatin (likely general),transcription by rna pol,True
+UBE2N,0.57333,1.4016,1.4016,0.039514,0.025846,0.76577,0.85913,T1-core,new,-1.9351133580094655,False,Ubiquitin–proteasome / protein degradation,ubiquitin-protein transferase,False
+HTR3C,0.56325,1.4251,1.4251,0.048991,0.018894,0.85224,0.6882,T1-core,new,-0.0273395860218578,True,Transport — ion channels & solute carriers,ion channel,False
+UGCG,0.50998,1.4467,1.4467,0.074766,0.010025,0.87038,0.61441,T1-core,new,-0.1531065414488346,False,Membrane lipid remodeling,sphingolipid,False
+ZFYVE20,0.50452,1.4537,1.4537,0.076577,0.021272,0.71879,0.62638,T1-core,new,-0.061009024174838,False,ER-Golgi / COPII vesicular transport,golgi organization,False
+CCDC115,0.47578,1.4568,1.4568,0.10196,0.029969,0.61764,0.75503,T1-core,new,-0.8059253461492291,False,Other / unclear,no keyword match,True
+TMEM186,0.51035,1.4594,1.4594,0.074766,0.027668,0.67978,0.79266,T1-core,new,-0.1566118705589024,False,Metabolism / mitochondria (likely general),mitochondrial,True
+EMC6,0.51871,1.4616,1.4616,0.068627,0.004744,0.72892,0.70153,T1-core,new,-0.4136024157621576,False,Autophagy–secretion & DAMP,\bautophagosome\b,False
+DCLRE1A,0.50789,1.48,1.48,0.076212,0.006071,0.68602,0.7751,T1-core,new,0.1805848841261409,False,Other / unclear,no keyword match,True
+UFM1,0.44817,1.5066,1.5066,0.11324,0.02468,0.64559,0.56074,T1-core,new,-0.2376091258807066,False,Other / unclear,no keyword match,True
+KLHL35,0.45197,1.5184,1.5184,0.11031,0.017422,0.70701,0.58447,T1-core,new,0.1963914353912247,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+AP3B2,0.42324,1.533,1.533,0.14764,0.015752,0.66372,0.62263,T1-core,new,0.2421228182732757,False,ER-Golgi / COPII vesicular transport,vesicle coating,False
+MRPS12,0.38896,1.5677,1.5677,0.19897,0.046948,0.55853,0.57831,T1-core,new,-1.3747005019687748,False,Metabolism / mitochondria (likely general),mitochondrial,True
+PLRG1,-1.5389,-3.5984,3.5984,0.0,0.075879,-2.4504,-2.2673,T2-nearmiss-RRA,new,-0.7123231319546632,False,Spliceosome / RNA processing (likely general),spliceosom,True
+USPL1,-1.5375,-3.3324,3.3324,0.0,0.074137,-2.3432,-3.2847,T2-nearmiss-RRA,new,-0.9218843013845116,False,Other / unclear,no keyword match,True
+NSF,-1.2182,-3.2314,3.2314,0.0,0.055778,-1.7147,-2.0046,T2-nearmiss-RRA,new,-2.3884804366961596,False,ER-Golgi / COPII vesicular transport,intra-golgi,False
+WNT2B,-1.1831,-3.1785,3.1785,0.006135,0.058062,-1.9014,-1.5049,T2-nearmiss-RRA,new,-0.2695583797085608,False,Cytokine / GPCR / surface receptor signaling,cytokine,False
+INTS9,-1.1613,-3.137,3.137,0.006135,0.063573,-1.5645,-2.107,T2-nearmiss-RRA,new,-1.7689858073307672,False,Cytokine / GPCR / surface receptor signaling,growth factor.*signal,False
+NKAP,-1.1156,-3.1196,3.1196,0.0088889,0.065762,-1.6708,-1.4312,T2-nearmiss-RRA,new,-0.9216089995297404,False,Spliceosome / RNA processing (likely general),spliceosom,True
+INTS11,-1.2108,-3.1014,3.1014,0.0,0.050536,-2.3287,-1.6036,T2-nearmiss-RRA,new,-2.162419515190867,False,Spliceosome / RNA processing (likely general),rna processing,True
+FNDC1,-1.0812,-3.0334,3.0334,0.0088889,0.097579,-1.7607,-1.6413,T2-nearmiss-RRA,new,0.0523482441479931,False,Other / unclear,no keyword match,True
+XRRA1,-1.1093,-3.0068,3.0068,0.0088889,0.072921,-1.3545,-1.698,T2-nearmiss-RRA,new,-0.2448620243481007,False,Other / unclear,no keyword match,True
+AMIGO3,-0.89533,-2.811,2.811,0.021505,0.052756,-1.1968,-1.2529,T2-nearmiss-RRA,new,0.0174563686859018,True,Surface sensing & adhesion,cell-cell adhesion,False
+KCNJ4,-0.81874,-2.7531,2.7531,0.037855,0.090383,-1.1191,-1.2358,T2-nearmiss-RRA,new,0.1688200282789666,True,Other / unclear,no keyword match,True
+UBA3,-0.7588,-2.7365,2.7365,0.056,0.085085,-1.0679,-1.0094,T2-nearmiss-RRA,new,-0.5011451722219324,False,COP9 signalosome / neddylation,neddylat,False
+C2orf72,-0.96422,-2.6919,2.6919,0.012712,0.087659,-1.2583,-1.0015,T2-nearmiss-RRA,new,0.3723221266335849,False,Other / unclear,no keyword match,True
+RPRD1B,-0.75108,-2.6811,2.6811,0.056995,0.088157,-1.0144,-1.2124,T2-nearmiss-RRA,new,-1.4151566538308384,False,Spliceosome / RNA processing (likely general),pre-mrna,True
+GTF2F2,-0.63047,-2.5325,2.5325,0.12562,0.074645,-0.99082,-0.83409,T2-nearmiss-RRA,new,-0.66755162574598,False,Transcription / chromatin (likely general),transcription by rna pol,True
+EPB41L1,-0.61056,-2.5302,2.5302,0.13953,0.086482,-0.93669,-0.86542,T2-nearmiss-RRA,new,0.0808848021498426,False,Membrane–cortex mechanics,band 4\.1,False
+TAF1D,-0.62139,-2.4989,2.4989,0.13854,0.075879,-1.0972,-0.66715,T2-nearmiss-RRA,new,-0.0433170628292194,False,Transcription / chromatin (likely general),dna-templated transcription,True
+CCDC50,-0.62463,-2.4886,2.4886,0.13051,0.085987,-0.9933,-0.72689,T2-nearmiss-RRA,new,0.0903159241312042,False,Other / unclear,no keyword match,True
+ID2,-0.59849,-2.4555,2.4555,0.15625,0.086482,-1.0682,-0.77548,T2-nearmiss-RRA,new,-0.1446314896365987,False,Transcription / chromatin (likely general),transcription by rna pol,True
+SCAF8,-0.60985,-2.4005,2.4005,0.13953,0.051246,-1.0214,-0.75512,T2-nearmiss-RRA,new,-0.6526859330712984,False,Transcription / chromatin (likely general),dna-templated transcription,True
+KANSL3,-0.71981,-2.39,2.39,0.074766,0.092036,-1.4168,-0.98856,T2-nearmiss-RRA,new,-1.4890404809065916,False,Transcription / chromatin (likely general),transcription by rna pol,True
+DPP4,-0.50256,-2.3233,2.3233,0.26598,0.084526,-0.55499,-0.75819,T2-nearmiss-RRA,new,-0.0879022299950887,True,Polarized exocytosis & fusion,membrane fusion,False
+PHACTR2,-0.43688,-2.3092,2.3092,0.35997,0.075087,-0.70632,-0.55242,T2-nearmiss-RRA,new,-0.0540381462943789,False,Actin & Rho signaling,actin cytoskeleton organization,False
+SEPN1,-0.38885,-2.2061,2.2061,0.42221,0.067224,-0.45196,-0.68941,T2-nearmiss-RRA,new,0.1949950192883681,False,Other / unclear,no keyword match,True
+DGCR2,-0.34111,-2.2035,2.2035,0.51371,0.056424,-0.436,-0.54931,T2-nearmiss-RRA,new,-0.4578760141317005,True,Other / unclear,no keyword match,True
+KYNU,-0.4035,-2.1974,2.1974,0.39786,0.072702,-0.40143,-0.60658,T2-nearmiss-RRA,new,-0.0071810124198671,False,Other / unclear,no keyword match,True
+NPAP1,-0.35405,-2.1481,2.1481,0.48986,0.097579,-0.42924,-0.57903,T2-nearmiss-RRA,new,0.019074310211874,False,Other / unclear,no keyword match,True
+KIAA1199,-0.21956,-1.8104,1.8104,0.79539,0.095183,-0.37993,-0.27389,T2-nearmiss-RRA,new,-0.1218577022347992,False,Other / unclear,no keyword match,True
+ATP6V1H,0.79768,1.2381,1.2381,0.0,0.067334,1.2398,1.1665,T2-nearmiss-RRA,new,-0.7440012404793414,False,Polarized exocytosis & fusion,synaptic vesicle,False
+SARM1,0.69688,1.2879,1.2879,0.0,0.062172,1.25,0.9629,T2-nearmiss-RRA,new,,False,Other / unclear,no keyword match,True
+RCOR3,0.72133,1.2907,1.2907,0.0,0.054613,1.0185,1.0035,T2-nearmiss-RRA,new,0.0483259940247987,False,Transcription / chromatin (likely general),transcription by rna pol,True
+ACTA1,0.68896,1.303,1.303,0.0,0.097675,0.82039,1.0728,T2-nearmiss-RRA,new,-0.1312699096018963,False,Other / unclear,no keyword match,True
+RAB7A,0.59165,1.3528,1.3528,0.03,0.0918,0.76499,1.0564,T2-nearmiss-RRA,new,-0.6249516888418815,False,Autophagy–secretion & DAMP,\bautophagosome\b,False
+SMIM3,0.48395,1.4214,1.4214,0.090336,0.08941,0.87771,0.8457,T2-nearmiss-RRA,new,-0.1225692865578369,False,Other / unclear,no keyword match,True
+PNPT1,0.45195,1.4229,1.4229,0.11031,0.062172,0.57951,0.58413,T2-nearmiss-RRA,new,-1.8339746368423528,False,Spliceosome / RNA processing (likely general),rna processing,True
+ACTB,0.56058,1.4395,1.4395,0.050139,0.077873,0.79628,0.89011,T2-nearmiss-RRA,new,-0.4493373468381813,False,Cell polarity,cell polarity,False
+CSNK2A1,0.44713,1.4499,1.4499,0.11324,0.069307,0.60651,0.64089,T2-nearmiss-RRA,new,-0.1272998638541786,False,Ubiquitin–proteasome / protein degradation,proteasom,False
+TBC1D10C,0.49492,1.4536,1.4536,0.077951,0.076804,0.57191,0.87119,T2-nearmiss-RRA,new,-0.0842501540668218,False,Other / unclear,no keyword match,True

@@ -1,0 +1,39 @@
+{
+  "card_edgecolor": "black",
+  "card_height": 1.9,
+  "card_linewidth": 1.7,
+  "card_width": 3.2,
+  "figure_facecolor": "white",
+  "gene_fontsize": 17,
+  "label_edgecolor": "black",
+  "label_facecolor": "#FFFFFF",
+  "label_height_frac": 0.44,
+  "label_width_frac": 0.78,
+  "lfc_center": 0.0,
+  "lfc_colors": [
+    "#5d8af7",
+    "#ffffff",
+    "#ed8590"
+  ],
+  "lfc_limits": [
+    -2.5,
+    2.5
+  ],
+  "max_cols": 2,
+  "missing_color": "#D9D9D9",
+  "outer_pad_x": 0.2,
+  "outer_pad_y": 0.18,
+  "rra_maxfdr_colors": [
+    "#a68ff8",
+    "#FFFFFF"
+  ],
+  "rra_maxfdr_limits": [
+    0.0,
+    0.05
+  ],
+  "save_dpi": 300,
+  "target_tier": "T1-core",
+  "title_fontsize": 18,
+  "title_space": 0.95,
+  "title_wrap": 36
+}

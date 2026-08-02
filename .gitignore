@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Generated figure outputs (recreated by run_all.py)
+workflows/*/outputs/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Claude Code local settings
+.claude/

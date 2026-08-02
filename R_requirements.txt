@@ -1,0 +1,5 @@
+R==4.5.3
+tidyverse==2.0.0
+ggrepel==0.9.8
+ragg==1.5.2
+svglite==2.2.2

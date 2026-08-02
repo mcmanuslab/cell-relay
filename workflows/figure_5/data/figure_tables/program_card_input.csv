@@ -1,0 +1,169 @@
+program,Gene,B_lfc,C_lfc,rra_maxfdr,tier,source_row
+ER-Golgi / COPII vesicular transport,PREB,-3.0328,-3.0883,0.003327,T1-core,0
+Spliceosome / RNA processing (likely general),SNRPF,-2.9419,-2.7176,0.029584,T1-core,1
+ER-Golgi / COPII vesicular transport,GOSR2,-2.9273,-2.5649,0.000669,T1-core,2
+ER-Golgi / COPII vesicular transport,BET1,-2.6354,-2.4826,0.001061,T1-core,3
+TRAPP tethering complex,TRAPPC4,-2.667,-2.3355,0.000198,T1-core,4
+Spliceosome / RNA processing (likely general),SNRPD2,-3.106,-2.6301,0.017813,T1-core,5
+TRAPP tethering complex,TRAPPC8,-2.3243,-3.0698,0.000413,T1-core,6
+TRAPP tethering complex,TRAPPC3,-2.4077,-2.2525,0.003327,T1-core,7
+Transcription / chromatin (likely general),KIAA0947,-2.0595,-2.1772,0.000619,T1-core,8
+Ubiquitin–proteasome / protein degradation,USP30,-2.2113,-2.4955,0.000198,T1-core,9
+Cytokine / GPCR / surface receptor signaling,CNTROB,-2.2783,-2.0645,0.000198,T1-core,10
+ER-Golgi / COPII vesicular transport,SEC23B,-2.087,-2.1941,0.000198,T1-core,11
+Other / unclear,C9orf170,-1.919,-2.154,0.000198,T1-core,12
+Antigen processing & presentation (MHC-I),TAP2,-1.8229,-1.9341,0.007063,T1-core,13
+Actin & Rho signaling,ARHGEF35,-2.0455,-1.9636,0.009592,T1-core,14
+Membrane-protein biogenesis (ER/GET/ERAD),SPCS2,-1.8781,-2.0793,0.000198,T1-core,15
+ER-Golgi / COPII vesicular transport,STX18,-1.8361,-2.119,0.010199,T1-core,16
+Antigen processing & presentation (MHC-I),TAPBP,-2.0352,-1.7657,0.000198,T1-core,17
+ER-Golgi / COPII vesicular transport,USO1,-2.4863,-1.9604,0.009086,T1-core,18
+Transcription / chromatin (likely general),ZKSCAN1,-1.9345,-2.1215,0.002475,T1-core,19
+Metabolism / mitochondria (likely general),NDUFA1,-1.9267,-2.0314,0.000669,T1-core,20
+TRAPP tethering complex,TRAPPC1,-2.0653,-1.9763,0.00143,T1-core,21
+ER-Golgi / COPII vesicular transport,SEC22B,-1.8119,-1.898,0.000669,T1-core,22
+Polarized exocytosis & fusion,RPH3AL,-1.9145,-1.9373,0.000198,T1-core,23
+Transcription / chromatin (likely general),ICE1,-1.7539,-1.6792,0.000198,T1-core,24
+Cell polarity,PARD6A,-1.7977,-1.8985,0.000198,T1-core,25
+Ubiquitin–proteasome / protein degradation,PSMB9,-1.6642,-1.8789,0.000198,T1-core,26
+ER-Golgi / COPII vesicular transport,BNIP1,-2.0375,-1.7466,0.00342,T1-core,27
+Ubiquitin–proteasome / protein degradation,FBXW12,-2.0133,-1.7565,0.000198,T1-core,28
+COP9 signalosome / neddylation,COPS3,-1.761,-1.6857,0.007361,T1-core,29
+ER-Golgi / COPII vesicular transport,OPTN,-2.0462,-1.6755,0.026808,T1-core,30
+Transport — ion channels & solute carriers,KCNAB3,-1.8057,-1.6793,0.000198,T1-core,31
+Cytokine / GPCR / surface receptor signaling,OR4A16,-1.6851,-1.8399,0.000198,T1-core,32
+Transport — ion channels & solute carriers,ABCD4,-1.5381,-1.7573,0.000198,T1-core,33
+Other / unclear,RWDD4,-1.6052,-1.663,0.02172,T1-core,34
+Transport — ion channels & solute carriers,AQP12A,-1.6363,-1.6425,0.005016,T1-core,35
+Transport — ion channels & solute carriers,CACNG7,-1.5916,-1.6278,0.021988,T1-core,36
+Polarized exocytosis & fusion,EXOC5,-2.03,-1.7825,0.010407,T1-core,37
+Antigen processing & presentation (MHC-I),TAP1,-1.3991,-1.5118,0.031496,T1-core,38
+COP9 signalosome / neddylation,COPS4,-1.6637,-1.542,0.008294,T1-core,39
+ER-Golgi / COPII vesicular transport,STX5,-1.6197,-1.8018,0.007742,T1-core,40
+Transcription / chromatin (likely general),MBD3,-1.8253,-1.657,0.001753,T1-core,41
+Antigen processing & presentation (MHC-I),HSPH1,-1.8225,-1.5937,0.003878,T1-core,42
+Other / unclear,ALDH1A3,-1.4108,-1.7837,0.028785,T1-core,43
+Other / unclear,KCTD3,-1.9399,-2.2436,0.023438,T1-core,44
+Other / unclear,PDHA1,-1.5062,-1.4456,0.000198,T1-core,45
+Ubiquitin–proteasome / protein degradation,PSMB8,-1.5179,-1.3161,0.003803,T1-core,46
+COP9 signalosome / neddylation,COPS5,-1.8477,-1.8531,0.032816,T1-core,47
+Other / unclear,GDPGP1,-1.9667,-1.7607,0.006465,T1-core,48
+Transcription / chromatin (likely general),RUNX3,-1.2904,-1.6116,0.000198,T1-core,49
+Transport — ion channels & solute carriers,GJD3,-1.7584,-1.308,0.002761,T1-core,50
+Spliceosome / RNA processing (likely general),CLK3,-1.2818,-1.5297,0.015997,T1-core,51
+Spliceosome / RNA processing (likely general),DHX15,-1.3791,-1.4054,0.011892,T1-core,52
+TRAPP tethering complex,TRAPPC12,-1.4265,-1.3696,0.000198,T1-core,53
+Metabolism / mitochondria (likely general),ADPGK,-1.9435,-1.5306,0.044332,T1-core,54
+Membrane lipid remodeling,ZFYVE19,-1.533,-1.2424,0.027796,T1-core,55
+GPI-anchor & glycan surface display,PIGA,-1.3202,-1.4958,0.004586,T1-core,56
+Endosomal pH & recycling,SLC9A6,-1.4151,-1.3678,0.007316,T1-core,57
+Membrane lipid remodeling,MTMR11,-1.3937,-1.4366,0.003379,T1-core,58
+TRAPP tethering complex,TRAPPC13,-1.7435,-1.1732,0.003768,T1-core,59
+COP9 signalosome / neddylation,NEDD8,-1.3616,-1.2214,0.026992,T1-core,60
+Other / unclear,MATN1,-1.1158,-1.7947,0.038887,T1-core,61
+Spliceosome / RNA processing (likely general),INTS4,-1.5322,-1.2961,0.035636,T1-core,62
+GPI-anchor & glycan surface display,ALG1,-1.1666,-1.147,0.000198,T1-core,63
+Polarized exocytosis & fusion,EXOC4,-1.4979,-1.163,0.000806,T1-core,64
+Ubiquitin–proteasome / protein degradation,ARRB1,-0.96621,-1.5117,0.010832,T1-core,65
+ER-Golgi / COPII vesicular transport,GOLT1B,-0.92166,-1.4891,0.041384,T1-core,66
+Membrane-protein biogenesis (ER/GET/ERAD),WRB,-1.3277,-1.0659,0.001614,T1-core,67
+Endosomal pH & recycling,RILP,-1.0341,-1.0715,0.000198,T1-core,68
+GPI-anchor & glycan surface display,DHDDS,-1.1689,-1.0575,0.027796,T1-core,69
+Polarized exocytosis & fusion,KIF13A,-1.234,-1.1873,0.003768,T1-core,70
+Ubiquitin–proteasome / protein degradation,SEL1L,-0.92679,-1.2063,0.033786,T1-core,71
+Other / unclear,DFFA,-1.0937,-1.3302,0.038892,T1-core,72
+GPI-anchor & glycan surface display,ALG2,-0.99738,-0.96253,0.003945,T1-core,73
+Surface sensing & adhesion,CD58,-1.1853,-1.0569,0.00221,T1-core,74
+Cytokine / GPCR / surface receptor signaling,MAP3K8,-0.99595,-0.97135,0.000198,T1-core,75
+Cytokine / GPCR / surface receptor signaling,ACVR1,-1.2471,-1.0158,0.014328,T1-core,76
+ER-Golgi / COPII vesicular transport,RABGGTB,-0.98467,-0.96466,0.016429,T1-core,77
+Other / unclear,ITIH5,-1.0666,-1.0703,0.00187,T1-core,78
+Other / unclear,TSSC1,-0.83718,-1.0021,0.000413,T1-core,79
+Other / unclear,TUBGCP4,-1.074,-1.1036,0.046009,T1-core,80
+Other / unclear,C17orf72,-1.1905,-1.0539,0.012271,T1-core,81
+Membrane lipid remodeling,ATP11A,-1.1137,-0.94309,0.010407,T1-core,82
+Transport — ion channels & solute carriers,KCNQ3,-1.0958,-1.14,0.049712,T1-core,83
+Transcription / chromatin (likely general),TAF1A,-0.88125,-0.84813,0.033886,T1-core,84
+Membrane lipid remodeling,MTMR9,-0.92336,-0.82755,0.000806,T1-core,85
+Other / unclear,FAM204A,-0.90545,-0.83511,0.007063,T1-core,86
+Other / unclear,QSOX2,-0.80534,-1.0773,0.014097,T1-core,87
+Other / unclear,CRYGB,-0.85435,-0.95007,0.028117,T1-core,88
+Other / unclear,NFKBID,-0.71882,-0.79969,0.043344,T1-core,89
+Surface sensing & adhesion,TMC7,-1.9663,-2.1459,0.004359,T1-core,90
+Other / unclear,LOXL1,-0.7131,-0.79779,0.037093,T1-core,91
+Ubiquitin–proteasome / protein degradation,RFWD2,-0.73794,-0.87303,0.010309,T1-core,92
+GPI-anchor & glycan surface display,JAK3,-0.89665,-1.2807,0.031583,T1-core,93
+Spliceosome / RNA processing (likely general),TRPT1,-1.2572,-1.1837,0.046009,T1-core,94
+Cytokine / GPCR / surface receptor signaling,NDP,-0.74429,-0.49032,0.013551,T1-core,95
+Ubiquitin–proteasome / protein degradation,KCTD10,-0.78033,-0.55453,0.026022,T1-core,96
+Other / unclear,WDR44,-0.86482,-0.68633,0.005806,T1-core,97
+Actin & Rho signaling,RASGEF1B,-0.53958,-0.63854,0.040099,T1-core,98
+Transcription / chromatin (likely general),NKX2-6,-1.0585,-0.55589,0.00389,T1-core,99
+Spliceosome / RNA processing (likely general),METTL5,-0.41293,-0.35915,0.037547,T1-core,100
+Other / unclear,CEP112,-0.79072,-0.52275,0.03231,T1-core,101
+Other / unclear,TSPEAR,-0.63826,-0.4215,0.014109,T1-core,102
+Actin & Rho signaling,SCAI,-0.43706,-0.59401,0.044171,T1-core,103
+Transcription / chromatin (likely general),GTF3A,-1.9533,-1.907,0.010084,T1-core,104
+Transcription / chromatin (likely general),SMARCE1,1.3694,1.6798,0.005522,T1-core,105
+Transcription / chromatin (likely general),SMARCC1,1.2355,1.5643,0.000825,T1-core,106
+Other / unclear,WDR7,1.1724,1.3316,0.00225,T1-core,107
+Other / unclear,LARS,1.3371,1.5327,0.044184,T1-core,108
+Spliceosome / RNA processing (likely general),AGO3,1.5021,1.4455,0.009173,T1-core,109
+Actin & Rho signaling,ARPC4,1.4285,1.1951,0.029636,T1-core,110
+Other / unclear,TPT1,1.3552,1.4404,0.001856,T1-core,111
+Spliceosome / RNA processing (likely general),DGCR8,1.354,1.1694,0.003786,T1-core,112
+Ubiquitin–proteasome / protein degradation,ASCC3,1.3614,1.1208,0.010689,T1-core,113
+Autophagy–secretion & DAMP,PGAM5,1.288,1.3036,0.002785,T1-core,114
+Other / unclear,APOBEC2,1.3555,1.3442,0.009767,T1-core,115
+Other / unclear,VMA21,1.0673,1.4157,0.00225,T1-core,116
+Cytokine / GPCR / surface receptor signaling,RELL2,1.4202,0.90534,0.025955,T1-core,117
+Spliceosome / RNA processing (likely general),DICER1,1.2367,1.2809,0.000825,T1-core,118
+Spliceosome / RNA processing (likely general),ZPR1,1.0423,1.0964,0.002666,T1-core,119
+Transcription / chromatin (likely general),ZNF559,1.2354,1.0569,0.00452,T1-core,120
+Polarized exocytosis & fusion,ATP6V1F,1.0866,1.095,0.00495,T1-core,121
+Transport — ion channels & solute carriers,SLC35A3,1.0238,1.1159,0.049132,T1-core,122
+Other / unclear,CDS2,1.1663,0.99818,0.039427,T1-core,123
+Other / unclear,MXRA8,1.0121,1.1711,0.002785,T1-core,124
+Membrane-protein biogenesis (ER/GET/ERAD),EMC7,1.0478,1.187,0.000825,T1-core,125
+Other / unclear,ANO8,1.157,1.2485,0.007651,T1-core,126
+Ubiquitin–proteasome / protein degradation,VPS36,1.2492,0.97473,0.030029,T1-core,127
+Polarized exocytosis & fusion,ATP6V1G1,1.0173,1.0705,0.019072,T1-core,128
+Polarized exocytosis & fusion,ATP6AP2,0.58546,0.99718,0.029649,T1-core,129
+Cytokine / GPCR / surface receptor signaling,SMARCA4,0.84861,1.0648,0.017804,T1-core,130
+Polarized exocytosis & fusion,ATP6AP1,1.0956,1.1116,0.000825,T1-core,131
+Ubiquitin–proteasome / protein degradation,OTUD7B,1.1515,1.1348,0.005684,T1-core,132
+Other / unclear,TEX22,0.87425,0.79026,0.020326,T1-core,133
+Transcription / chromatin (likely general),C17orf49,1.1504,1.1488,0.039431,T1-core,134
+Other / unclear,TMEM199,1.1169,1.1224,0.000825,T1-core,135
+Other / unclear,IPO11,1.1847,0.97212,0.01422,T1-core,136
+Other / unclear,XPOT,1.0546,0.99281,0.017654,T1-core,137
+Polarized exocytosis & fusion,ATP6V1C1,1.1623,1.0801,0.032612,T1-core,138
+Spliceosome / RNA processing (likely general),TCERG1,1.2004,1.0618,0.010689,T1-core,139
+Actin & Rho signaling,SRF,0.88984,1.1077,0.03534,T1-core,140
+Spliceosome / RNA processing (likely general),TSEN54,1.1924,0.88711,0.014463,T1-core,141
+Transport — ion channels & solute carriers,SLC2A8,0.96675,1.0446,0.029364,T1-core,142
+Transcription / chromatin (likely general),ZNF71,0.88086,0.91118,0.007651,T1-core,143
+Spliceosome / RNA processing (likely general),TSEN2,0.95214,0.98613,0.009767,T1-core,144
+Transcription / chromatin (likely general),NUDT5,1.0413,0.71475,0.04637,T1-core,145
+Spliceosome / RNA processing (likely general),PRPF38B,1.1038,0.79574,0.027434,T1-core,146
+Transcription / chromatin (likely general),MXD1,0.77498,1.0363,0.017073,T1-core,147
+Cytokine / GPCR / surface receptor signaling,CARD17,1.0446,0.76901,0.011515,T1-core,148
+Spliceosome / RNA processing (likely general),TSEN15,0.97009,0.96948,0.004208,T1-core,149
+Antigen processing & presentation (MHC-I),IFI30,0.88864,0.9312,0.004275,T1-core,150
+Polarized exocytosis & fusion,VPS8,0.88421,0.94097,0.007651,T1-core,151
+Ubiquitin–proteasome / protein degradation,USP8,1.0176,0.90858,0.003182,T1-core,152
+Membrane-protein biogenesis (ER/GET/ERAD),EMC2,0.87199,0.93879,0.004125,T1-core,153
+Other / unclear,STIM1,0.87116,0.89782,0.010809,T1-core,154
+Transcription / chromatin (likely general),NOTCH2,0.70848,0.94946,0.042079,T1-core,155
+Ubiquitin–proteasome / protein degradation,UBE2N,0.76577,0.85913,0.025846,T1-core,156
+Transport — ion channels & solute carriers,HTR3C,0.85224,0.6882,0.018894,T1-core,157
+Membrane lipid remodeling,UGCG,0.87038,0.61441,0.010025,T1-core,158
+ER-Golgi / COPII vesicular transport,ZFYVE20,0.71879,0.62638,0.021272,T1-core,159
+Other / unclear,CCDC115,0.61764,0.75503,0.029969,T1-core,160
+Metabolism / mitochondria (likely general),TMEM186,0.67978,0.79266,0.027668,T1-core,161
+Autophagy–secretion & DAMP,EMC6,0.72892,0.70153,0.004744,T1-core,162
+Other / unclear,DCLRE1A,0.68602,0.7751,0.006071,T1-core,163
+Other / unclear,UFM1,0.64559,0.56074,0.02468,T1-core,164
+Ubiquitin–proteasome / protein degradation,KLHL35,0.70701,0.58447,0.017422,T1-core,165
+ER-Golgi / COPII vesicular transport,AP3B2,0.66372,0.62263,0.015752,T1-core,166
+Metabolism / mitochondria (likely general),MRPS12,0.55853,0.57831,0.046948,T1-core,167
