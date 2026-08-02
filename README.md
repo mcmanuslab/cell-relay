@@ -1,4 +1,4 @@
-# Relay publication figure code
+# Relay publication code
 
 This repository contains the analysis code and processed inputs needed to recreate publication figures generated computationally. Raw and large upstream data are distributed separately and mapped to their expected locations in `data_package_layout/`. Each workflow writes PDF and PNG figures, a run summary, a quality summary, and file hashes.
 
